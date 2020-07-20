@@ -5,7 +5,6 @@
   </head>
 <body>
 
-<h1>"Things do not happen. Things are made to happen !" </h1>
 
 <pre>
 <?php
